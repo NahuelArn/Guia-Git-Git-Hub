@@ -31,3 +31,13 @@ mv permite renombrar o mover archivos
     mv archivo.txt micarpeta/
   pwd     me dice donde estoy parado
   https://gitlab.com/rayuela90/laboratorio-curso-git
+
+
+
+
+
+El fork que nos permite hacer GitHub es muy similar a lo descrito anteriormente con la ventaja de que en lugar de clonar el repositorio de forma local, podremos crear una copia en remoto del proyecto que queremos y quedara almacenada en nuestra cuenta personal de GitHu
+
+fork copia el repositorio a tu cuenta de github, pero no a local
+
+clonacion cuando haces la clonacion haces directamente la copia a local del repositorio, despues si queres podes pushearla a github 
