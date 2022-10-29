@@ -200,7 +200,7 @@ mv permite renombrar o mover archivos
 
     - 2) ponemos pico, que nos va abrir un archivo de texto
  
-    ```pico ```
+     pico
    - 3) escribimos lo que queramos
 
    - 4) ctrl + 0 para Confirmar
