@@ -15,7 +15,7 @@ pagina a desplegar
 > sarasa
 
 # CONCEPTOS Y COMANDOS BÁSICOS
-comandos [ubuntu-terminal](ubuntu-terminal)
+comandos [ubuntu-terminal](docs/ubuntu-terminal.md)
 - Conceptos generales
 - Primeros pasos
 - Puntos de partida
