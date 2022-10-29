@@ -130,7 +130,7 @@ Qué versión de Git tengo instalada
 Configurar el nombre que sale en los commits  aparece en todas las modificaciones de repositorios global...
  git config --global user.name barcala
 Configurar Email  Un solo repositorio
- git config --global user.email barcala@ing.unlp.edu.ar
+ git config --global user.email asdasd
 
 todo esto me va a servir desde la terminal de git bash
 clear             me limpia la consola
@@ -156,5 +156,5 @@ mv permite renombrar o mover archivos
     mkdir micarpeta
     mv archivo.txt micarpeta/
   pwd     me dice donde estoy parado
-  https://gitlab.com/rayuela90/laboratorio-curso-git
+
 
