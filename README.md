@@ -45,9 +45,29 @@ pagina a desplegar
 
  - Donde estoy parado
    ls
+   
+ - pushear desde Ubuntu terminal
+   git push --set-upstream origin master
+ 
+ - para saber donde estoy parado
+   git bracnh
+   
+ - para crear una nueva rama
+   git branch nombredelanuevarama
+   
+ - para moverme entre ramas y elegir en cual quiero trabajar
+   git checkout “ramadondequieroempezarAtrabajar”
+   
+ - para ver donde estoy parado
+   git checkout
+ 
+ - para unir cambios de la rama Develop a la Master
+   git checkout ‘master
+   git merge develop
  
  # Aclaraciones
   si haces git init a una carpeta vacia, te va a tirar algun error, necesitas algun txt
+  si tenes 2f2 en github vas a necesitar generar un token para pushear
   
  # Pasos para inicializar un proyecto
       De forma manual
