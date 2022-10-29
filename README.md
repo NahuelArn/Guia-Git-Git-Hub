@@ -33,6 +33,7 @@ pagina a desplegar
 
 
 # Herramientas mas usadas
+   ```
    <!-- Para saber que version tengo de git-->
  - Para saber que version tengo de git.
    git --version
@@ -65,7 +66,8 @@ pagina a desplegar
  - para unir cambios de la rama Develop a la Master
    -git checkout master 
    -git merge develop
- 
+ ```
+
  # Aclaraciones
   si haces git init a una carpeta vacia, te va a tirar algun error, necesitas algun txt
   si tenes 2f2 en github vas a necesitar generar un token para pushear
