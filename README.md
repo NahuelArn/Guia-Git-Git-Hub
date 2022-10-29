@@ -12,8 +12,7 @@ pagina a desplegar
 ```
  aaa
 ```
-> sarasa
-<
+> sarasa >
 The background color should be `#RRGGBB`
 
 
