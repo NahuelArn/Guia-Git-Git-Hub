@@ -7,7 +7,7 @@ pagina a desplegar
 
 # holanda
 - casa
-* asas
+
 
 # CONCEPTOS Y COMANDOS BÁSICOS
 - Conceptos generales
