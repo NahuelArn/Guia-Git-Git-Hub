@@ -34,7 +34,7 @@ pagina a desplegar
 
 # Herramientas mas usadas
  - <!-- Para saber que version tengo de git-->
-   git --version
+ - git --version
    
    <!--- Ahora para para poner el mail--->
  - Configurar el nombre y mail del que va hacer cambios
@@ -62,8 +62,8 @@ pagina a desplegar
    git checkout
  
  - para unir cambios de la rama Develop a la Master
-   git checkout ‘master
-   git merge develop
+   -git checkout master 
+   -git merge develop
  
  # Aclaraciones
   si haces git init a una carpeta vacia, te va a tirar algun error, necesitas algun txt
