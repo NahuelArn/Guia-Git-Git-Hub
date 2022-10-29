@@ -68,7 +68,13 @@ pagina a desplegar
        
        - git commit -m "identificador de commit"   ⇐ nombre del cambio producido o poque se realizo
        
-       - git push -u origin master ⇐ subimos los cambios hechos al repositorio
+       - git push -u origin master ⇐ subimos los cambios hechos al repositorio (desde windows bash)
+       - git git push --set-upstream origin master ⇐ si lo hacemos desde ubuntu/linux terminal
+       
+       -te va pedir mail y usuario 
+         - desde terminal de ubuntu/linux 
+           poner mail y de contraseña tenes que generar un token 
+         - desde bash windows solo mail y contraseña
          
  
 # RAMAS Y RESOLUCIÓN DE CONFLICTOS
