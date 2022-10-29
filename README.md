@@ -12,9 +12,8 @@ pagina a desplegar
 ```
  aaa
 ```
-> sarasa >
 The background color should be `#RRGGBB`
-
+> sarasa
 
 # CONCEPTOS Y COMANDOS BÁSICOS
 - Conceptos generales
