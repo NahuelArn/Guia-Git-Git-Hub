@@ -6,5 +6,5 @@ pagina a desplegar
 
 
 # holanda
-$ casa
+/ casa
 * asas
