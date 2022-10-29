@@ -50,10 +50,10 @@ pagina a desplegar
   si haces git init a una carpeta vacia, te va a tirar algun error, necesitas algun txt
   
  # Pasos para inicializar un proyecto
-     # De forma manual
+      De forma manual
      
      
-     # De forma mas facil
+      De forma mas facil
        - Crear una carpeta "para el proyecto"
        - Click derecho sobre la carpeta y tocar bash here, para inicializar git desde la carpeta
        - Git init  <-- enlazas el proyecto con git 
