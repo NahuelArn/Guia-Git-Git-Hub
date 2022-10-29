@@ -17,6 +17,9 @@ pagina a desplegar
 - Comandos de consulta
 - Laboratorio
 
+  #CONCEPTOS GENERALES
+- ¿QUÉ ES GIT?
+  Git es un software de control de versiones diseñado por Linus Torvalds.
 
 
 
