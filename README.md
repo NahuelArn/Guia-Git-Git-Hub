@@ -12,7 +12,6 @@ pagina a desplegar
 ```
  aaa
 ```
-The background color should be `#RRGGBB`
 > sarasa
 
 # CONCEPTOS Y COMANDOS BÁSICOS
@@ -21,7 +20,6 @@ The background color should be `#RRGGBB`
 - Puntos de partida
 - Comandos básicos
 - Comandos de consulta
-- Laboratorio
 
  # CONCEPTOS GENERALES
 - ¿QUÉ ES GIT?
