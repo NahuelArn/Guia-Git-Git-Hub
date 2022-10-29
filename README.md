@@ -15,7 +15,7 @@ pagina a desplegar
 > sarasa
 
 # CONCEPTOS Y COMANDOS BÁSICOS
-comandos [ubuntu-terminal](docs/ubuntu-terminal.md)
+comandos [ubuntu-terminal](https://github.com/NahuelArn/Guia-Git-Git-Hub/blob/main/README.md#ubuntu-terminal)
 - Conceptos generales
 - Primeros pasos
 - Puntos de partida
