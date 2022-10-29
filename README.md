@@ -34,15 +34,15 @@ pagina a desplegar
 
 # Herramientas mas usadas
    ```
-   <!-- Para saber que version tengo de git-->
  - Para saber que version tengo de git.
    git --version
-   
-   <!--- Ahora para para poner el mail--->
+ 
  - Configurar el nombre y mail del que va hacer cambios
+   
+  Ahora para para poner el mail
    git config --global user.gmail "pones el mail"
 
-   <!--- Ahora para para poner el nombre--->
+  Ahora para para poner el nombre
    git config --global user.name "pones el nombre"
 
  - Donde estoy parado
