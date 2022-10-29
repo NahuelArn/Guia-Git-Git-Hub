@@ -163,3 +163,4 @@ mv permite renombrar o mover archivos
   pwd     me dice donde estoy parado
 
 
+ # ubuntu-terminal
