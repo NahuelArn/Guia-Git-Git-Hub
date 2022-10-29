@@ -33,8 +33,8 @@ pagina a desplegar
 
 
 # Herramientas mas usadas
- - <!-- Para saber que version tengo de git-->
- - git --version
+   <!-- Para saber que version tengo de git-->
+   git --version
    
    <!--- Ahora para para poner el mail--->
  - Configurar el nombre y mail del que va hacer cambios
