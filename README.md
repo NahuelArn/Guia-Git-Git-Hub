@@ -164,3 +164,55 @@ mv permite renombrar o mover archivos
 
 
  # ubuntu-terminal
+ 
+  ##Comando bash/ ubuntu terminal
+   - ls me muestra las carpetas que tengo creadas, donde este parado
+    ```
+    ls
+    ```
+  ## Comando para posicionarme en el escritorio
+    ```
+    cd /mnt/d/Escritorio
+    ```
+  ## Crear carpetas en el escritorio desde la consola de Ubuntu
+    ```
+     1) me posiciono en el escritorio (con los camandos de arriba)
+      mkdir nuevaCarpetaUbun
+    ```
+  ## Para moverme a otra carpeta 
+    ```
+    cd dondeQuieroMoverme
+    ```
+  ## Para renombrar una carpeta
+    ```
+    Tener encuenta que tenes que estar fuera de esa carpeta que quieras renombra
+    ejemplo Escritorio/carpetaArnombrar… tendiras que estar parado en Escritorio/
+ 
+    sudo mv nameViejo/ name nuevo
+    ```
+ 
+   ## Ir a mi directorio codigo
+    ```
+    cd /mnt/d/Codigo
+    ```
+   # Crear un archivo txt en una carpeta
+    - 1) posicionarse en esa carpeta, donde queremos el txt
+
+    - 2) ponemos pico, que nos va abrir un archivo de texto
+ 
+    ```pico ```
+   - 3) escribimos lo que queramos
+
+   - 4) ctrl + 0 para Confirmar
+
+   - 5) nombreAlarchivo.txt         Enter            
+```
+   definimos el nombre del archivo y le ponemos al final .txt si queremos un archivo txt
+
+   si queremos algo para html… algo.html…javascript.js etc.. etc.. tambien se puede dejar sin poner nada en el texto
+
+   6 ctrl + x para cerrar y confirmar
+ ```
+ 
+ 
+ 
