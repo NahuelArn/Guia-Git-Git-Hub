@@ -20,16 +20,22 @@ pagina a desplegar
  # CONCEPTOS GENERALES
 - ¿QUÉ ES GIT?
   Git es un software de control de versiones diseñado por Linus Torvalds.
+  
 - ¿PARA QUÉ USAR GIT?
   Git sirve para llevar un control de versiones para tu codigo y trabajar en conjunto entre otras personas
+
 - ¿QUÉ ES UN COMMIT?
   Un commit es una marca de tiempo en un historial, que podes volver a un punto en especial o elimarlo, en un commit se guarda los metadatos de la persona que modico   los archvivos 
+  
 - REMOTE Y LOCAL
   Forma remota, es tener desplegado un repositorio en una plataforma como GitHub (un respaldo en la nube)
   Forma local, es tener todo en un equipo, limitando las posibilidades de trabajar en conjunto entre varias personas
 
-# Herramientas mas usadas
 
+# Herramientas mas usadas
+ - <!-- Para saber que version tengo de git-->
+   git --version
+   
    <!--- Ahora para para poner el mail--->
  - Configurar el nombre y mail del que va hacer cambios
    git config --global user.gmail "pones el mail"
@@ -38,8 +44,33 @@ pagina a desplegar
    git config --global user.name "pones el nombre"
 
  - Donde estoy parado
-   
-
+   ls
+ 
+ # Aclaraciones
+  si haces git init a una carpeta vacia, te va a tirar algun error, necesitas algun txt
+  
+ # Pasos para inicializar un proyecto
+     # De forma manual
+     
+     
+     # De forma mas facil
+       - Crear una carpeta "para el proyecto"
+       - Click derecho sobre la carpeta y tocar bash here, para inicializar git desde la carpeta
+       - Git init  <-- enlazas el proyecto con git 
+       - git remote add origin https://github.com/NahuelArn/reposiotiroPrueba.git ⇐ Enlazas el repositorio nuevo
+       - Git status   ⇐ lo que esta en rojo no lo esta rastreando git o hay una modificacion
+       - git add . ⇐ para que git rastree los elementos en rojo/ esta instruccion va a ir por todos los archivos en rojo
+         - si se quiere rastrear un archivo en especifico 
+           - git add nombreDelArchivo
+       - git status ⇐ ahora todos los archivos van a estar en verde
+       - git config --global user.email "you@example.com"  ⇐ mail de la persona que esta trabajando en este proyecto
+       - git config --global user.name "Your Name"        ⇐ nombre //
+       
+       - git commit -m "identificador de commit"   ⇐ nombre del cambio producido o poque se realizo
+       
+       - git push -u origin master ⇐ subimos los cambios hechos al repositorio
+         
+ 
 # RAMAS Y RESOLUCIÓN DE CONFLICTOS
 - Conceptos básicos de ramas
 - Comandos para control de ramas
@@ -97,3 +128,4 @@ mv permite renombrar o mover archivos
     mv archivo.txt micarpeta/
   pwd     me dice donde estoy parado
   https://gitlab.com/rayuela90/laboratorio-curso-git
+
