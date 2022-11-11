@@ -214,5 +214,5 @@ mv permite renombrar o mover archivos
    6 ctrl + x para cerrar y confirmar
  ```
  
- https://highlightjs.org/static/demo/
+https://highlightjs.org/static/demo/
  
